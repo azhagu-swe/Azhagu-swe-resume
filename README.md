@@ -10,7 +10,7 @@ This repository, `azhagu-swe-resume.git`, contains my professional resume built 
 
 ## Files in this Repository
 
-- `resume.tex`: The main LaTeX file containing the resume content.
+- `azhagu-swe_resume-openfont.tex`: The main LaTeX file containing the resume content.
 - `azhagu-swe-resume-openfont.cls`: The custom class file for the resume template.
 - `fonts/`: Folder containing the required fonts (`Lato` and `Raleway`).
 - `publications.bib`: BibTeX file for managing the publications section (if applicable).
@@ -25,6 +25,14 @@ To compile the LaTeX files, you need:
 ## Usage
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/azhagu-swe/azhagu-swe-resume.git
    cd azhagu-swe-resume
+
+   ## Preview of Azhagu Resume
+   ```
+
+![Preview](Azhagu-resume.pdf)
+
+[Download Full PDF](Azhagu-resume.pdf)
