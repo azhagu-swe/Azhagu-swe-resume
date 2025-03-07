@@ -33,6 +33,6 @@ To compile the LaTeX files, you need:
    ## Preview of Azhagu Resume
    ```
 
-![Preview](Azhagu-resume.pdf)
+![Preview](azhagu-resume.jpg)
 
 [Download Full PDF](Azhagu-resume.pdf)
